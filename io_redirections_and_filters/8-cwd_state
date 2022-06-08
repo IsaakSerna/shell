@@ -1,0 +1,47 @@
+#!/bin/bash
+total 72
+
+drwxr-xr-x 2 root root  4096 Jun  8 08:38 .
+
+drwxr-xr-x 6 root root   192 Jun  6 18:41 ..
+
+-rwxr--r-- 1 root root    32 Jun  6 19:21 0-hello_world
+
+-rwxr--r-- 1 root root    29 Jun  7 09:08 1-confused_smiley
+
+-rwxr--r-- 1 root root    28 Jun  7 09:24 2-hellofile
+
+-rwxr--r-- 1 root root    39 Jun  7 09:28 3-twofiles
+
+-rwxr--r-- 1 root root     0 Jun  7 09:25 3-twofiles~
+
+-rwxr--r-- 1 root root    29 Jun  7 09:35 4-lastlines
+
+-rwxr--r-- 1 root root     0 Jun  7 09:32 4-lastlines~
+
+-rwxr--r-- 1 root root    29 Jun  7 09:37 5-firstlines
+
+-rwxr--r-- 1 root root     0 Jun  7 09:36 5-firstlines~
+
+-rwxr--r-- 1 root root    40 Jun  7 09:53 6-third_line
+
+-rwxr--r-- 1 root root     0 Jun  7 09:39 6-third_line~
+
+-rwxr--r-- 1 root root   148 Jun  8 08:16 7-file
+
+-rw-r--r-- 1 root root 12288 Jun  7 10:34 .7-file.swo
+
+-rw-r--r-- 1 root root 12288 Jun  7 10:33 .7-file.swp
+
+-rwxr--r-- 1 root root    11 Jun  8 08:37 8-cwd_state
+
+-rwxr--r-- 1 root root     0 Jun  8 08:35 8-cwd_state~
+
+lrwxrwxrwx 1 root root    22 Jun  7 10:25 .#add. -> root@0d833302f9f1.1380
+
+-rw-r--r-- 1 root root     6 Jun  8 08:38 ls_cwd_content
+
+-rw-r--r-- 1 root root     0 Jun  8 08:38 ls_cwd_content~
+
+-rw-r--r-- 1 root root    16 Jun  6 20:13 README.md
+
